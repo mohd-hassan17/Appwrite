@@ -1,3 +1,3 @@
 ## Getting Started
-<p></p>
+<p>This repo is based on appwrite authentication</p>
 
